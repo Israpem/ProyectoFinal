@@ -8,6 +8,8 @@ USO: El uso de este programa es muy especifico, ya que trata de llevar un regist
 
 ESTADO DEL PROYECTO: El programa se encuentra en su mayoría completado, pero tiene algunos pequeños detalles que considero que es importante mencionar,  identificamos un pequeño detalle a la hora de manejar las direcciones ID  de los personajes, ya que al momento de asignar un personaje aleatorio y generar su dirección, estás ya tendrían que estar relacionadas directamente, a pesar de esto, no afecta directamente al objetivo principal del proyecto, ya que los registros se toman sin problemas 
 
+VIDEO EXPLICATIVO DEL PROYECTO: https://youtu.be/knfV-TI3h-s?si=pA2gFaJJC7hKP1Mb
+
 DATOS DE CONTACTO: 
 Israel Perez Martinez: 185572@upslp.edu.mx - 185572
 Arleth Guevara Mar: 185222@upslp.edu.mx - 185222
